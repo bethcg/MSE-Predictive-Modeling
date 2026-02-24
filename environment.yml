@@ -6,7 +6,6 @@ dependencies:
  - aiohttp
  - aiosignal
  - ansiwrap
- - async-generator
  - async-timeout
  - certifi
  - certipy
@@ -18,7 +17,6 @@ dependencies:
  - gitdb
  - GitPython
  - ipython
- - ipython-genutils
  - Jinja2
  - joblib
  - kiwisolver
