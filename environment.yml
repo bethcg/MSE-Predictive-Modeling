@@ -11,7 +11,6 @@ dependencies:
  - certifi
  - certipy
  - click
- - conda
  - cycler
  - distlib
  - filelock
